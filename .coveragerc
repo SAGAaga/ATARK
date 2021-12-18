@@ -1,0 +1,3 @@
+[run]
+source = atark
+omit = atark/test*
